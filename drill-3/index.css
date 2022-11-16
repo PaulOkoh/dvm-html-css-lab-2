@@ -1,0 +1,48 @@
+/* * {
+} */
+body {
+  height: 100%;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.silver {
+  display: flex;
+  justify-content: flex-start;
+  height: 100px;
+  background-color: silver;
+}
+
+.box {
+  height: 60px;
+  width: 60px;
+  margin: 20px;
+  background-color: rgb(46, 128, 192);
+}
+
+.text {
+  margin: 20px;
+}
+
+.skyblue {
+  height: 100px;
+  background-color: rgb(4, 180, 249);
+}
+
+.aqua {
+  height: 100px;
+  background-color: rgb(135, 242, 242);
+}
+
+.yellowish {
+  height: 100px;
+  background-color: #d5f792;
+}
+
+.yellow {
+  height: 100px;
+  background-color: rgb(225, 225, 106);
+}
